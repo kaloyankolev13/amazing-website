@@ -1,6 +1,16 @@
+.second-row {
+    display: flex;
+}
+
 .second-row .box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background: blue;
     width: 45vw;
     height: 45vw;
-    padding: 2.5vw;
+    margin: 2.5vw;
+    font-size: 25px;
+    font-weight: 700;
+
 }
