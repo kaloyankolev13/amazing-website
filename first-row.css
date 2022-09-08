@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 #container {
     background-color: pink;
 
@@ -11,9 +17,9 @@
 }
 
 .first-row .box {
-    width: 23.3vw;
-    height: 23.3vw;
-    margin: 5vw
+    width: 28.3vw;
+    height: 28.3vw;
+    margin: 2.5vw;
     background-color: red;
     display: flex;
     align-items: center;
