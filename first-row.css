@@ -18,12 +18,13 @@
 
 .first-row .box {
     width: 28.3vw;
-    height: 28.3vw;
+    height: 20vw;
     margin: 2.5vw;
     background-color: red;
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 30px;
+    font-size: 100px;
+    font-weight: 700;
 
 }
