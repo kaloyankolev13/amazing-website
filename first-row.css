@@ -1,0 +1,15 @@
+.first-row{
+    display: flex;
+    justify-content: space-between;
+    background-color:pink;
+}
+
+.first-row .box {
+    width: 30vw;
+    height: 30vw;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+}
